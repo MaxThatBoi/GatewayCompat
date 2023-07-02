@@ -1,0 +1,304 @@
+{
+    "size": "large",
+    "color": "#0a0048",
+    "waves": [{
+            "entities": [{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+				{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                }
+            ],
+            "rewards": [{
+                "type": "entity_loot",
+                "entity": "minecraft:warden",
+                "rolls": 20
+            }],
+            "max_wave_time": 750,
+            "setup_time": 150
+        },
+        {
+            "entities": [{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+				{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 1.5
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 5.0
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 1.25
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 0.25
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.05
+                }
+            ],
+            "rewards": [{
+                "type": "entity_loot",
+                "entity": "minecraft:warden",
+                "rolls": 30
+            }],
+            "max_wave_time": 750,
+            "setup_time": 150
+        },
+        {
+            "entities": [{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+				{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 5.0
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 8.0
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 1.5
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 0.45
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.10
+                }
+            ],
+            "rewards": [{
+                "type": "entity_loot",
+                "entity": "minecraft:warden",
+                "rolls": 40
+            }],
+            "max_wave_time": 750,
+            "setup_time": 150
+        },
+        {
+            "entities": [{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+				{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 10.0
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 10.5
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 5.66
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 0.75
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.15
+                }
+            ],
+            "rewards": [{
+                "type": "entity_loot",
+                "entity": "minecraft:warden",
+                "rolls": 50
+            }],
+            "max_wave_time": 750,
+            "setup_time": 150
+        },
+        {
+            "entities": [{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+				{
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                },
+                {
+                    "entity": "minecraft:warden"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 25.0
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 16
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 10.0
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 1.0
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.20
+                }
+            ],
+            "rewards": [{
+                "type": "entity_loot",
+                "entity": "minecraft:warden",
+                "rolls": 60
+            }],
+            "max_wave_time": 750,
+            "setup_time": 150
+        }
+    ],
+    "rewards": [{
+        "type": "entity_loot",
+        "entity": "minecraft:warden",
+        "rolls": 120
+    },
+	{
+		"type": "stack",
+		"stack": {
+			"item": "minecraft:nether_star"
+		}
+	}],
+    "completion_xp": 1250,
+	"spawn_range": 9
+}

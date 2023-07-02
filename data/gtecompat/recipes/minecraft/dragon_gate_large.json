@@ -1,0 +1,22 @@
+{
+  "type": "gateways:gate_recipe",
+  "gr#up": "gateways",
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dragon_head"
+    },
+    
+  "A": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "gateways:gate_pearl"
+  },
+  "gateway": "gtecompat:minecraft/dragon_gate_large"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    " # ",
+    "#A#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:arrow"
+    },
+	"A": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "gateways:gate_pearl"
+  },
+  "gateway": "gtecompat:minecraft/stray_gate_small"
+}

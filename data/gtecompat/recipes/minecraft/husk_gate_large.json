@@ -1,0 +1,24 @@
+{
+  "type": "gateways:gate_recipe",
+  "gr#up": "gateways",
+  "pattern": [
+    "#O#",
+    "OAO",
+    "#O#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "O": {
+      "item": "minecraft:sand"
+    },
+  "A": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "gateways:gate_pearl"
+  },
+  "gateway": "gtecompat:minecraft/husk_gate_large"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "gateways:gate_recipe",
+  "gr#up": "gateways",
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:prismarine_shard"
+    },
+    
+  "A": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "gateways:gate_pearl"
+  },
+  "gateway": "gtecompat:minecraft/guardian_gate_large"
+}

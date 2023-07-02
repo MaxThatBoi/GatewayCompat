@@ -1,0 +1,24 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    " # ",
+    "OAO",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "O": {
+      "item": "minecraft:copper_ingot"
+    },
+	"A": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "gateways:gate_pearl"
+  },
+  "gateway": "gtecompat:minecraft/drowned_gate_small"
+}

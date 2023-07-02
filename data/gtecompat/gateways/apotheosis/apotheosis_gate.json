@@ -1,0 +1,242 @@
+{
+    "conditions": [
+        {
+            "type": "apotheosis:module",
+            "module": "adventure"
+        }
+    ],
+    "size": "large",
+    "color": "rainbow",
+    "waves": [
+        {
+            "entities": [
+                {
+                    "type": "apotheosis:boss",
+                    "boss": "apotheosis:evoker"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 15.0
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 16
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 10.0
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 1.0
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.20
+                }
+
+            ],
+            "rewards": [
+                {
+                    "type": "apotheosis:affix",
+                    "rarity": "mythic"
+                }
+            ],
+            "max_wave_time": 1250,
+            "setup_time": 150
+        },
+        {
+            "entities": [
+                {
+                    "type": "apotheosis:boss",
+                    "boss": "apotheosis:evoker"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 20.0
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 18
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 12.0
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 1.0
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.20
+                }
+
+            ],
+            "rewards": [
+                {
+                    "type": "apotheosis:affix",
+                    "rarity": "mythic"
+                }
+            ],
+            "max_wave_time": 1250,
+            "setup_time": 150
+        },
+        
+    {
+            "entities": [
+                {
+                    "type": "apotheosis:boss",
+                    "boss": "apotheosis:evoker"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 25.0
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 20
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 15.0
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 1.0
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.20
+                }
+
+            ],
+            "rewards": [
+                {
+                    "type": "apotheosis:affix",
+                    "rarity": "mythic"
+                }
+            ],
+            "max_wave_time": 1250,
+            "setup_time": 150
+        },
+        
+    {
+            "entities": [
+                {
+                    "type": "apotheosis:boss",
+                    "boss": "apotheosis:evoker"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 30.0
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 22
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 20.0
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 1.0
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.20
+                }
+
+            ],
+            "rewards": [
+                {
+                    "type": "apotheosis:affix",
+                    "rarity": "mythic"
+                }
+            ],
+            "max_wave_time": 1250,
+            "setup_time": 150
+        },
+        
+    {
+            "entities": [
+                {
+                    "type": "apotheosis:boss",
+                    "boss": "apotheosis:evoker"
+                }
+            ],
+            "modifiers": [{
+                    "attribute": "generic.max_health",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 50.0
+                },
+                {
+                    "attribute": "generic.armor",
+                    "operation": "ADDITION",
+                    "value": 24
+                },
+                {
+                    "attribute": "generic.attack_damage",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 25.0
+                },
+                {
+                    "attribute": "generic.knockback_resistance",
+                    "operation": "ADDITION",
+                    "value": 1.0
+                },
+                {
+                    "attribute": "generic.movement_speed",
+                    "operation": "MULTIPLY_TOTAL",
+                    "value": 0.20
+                }
+
+            ],
+            "rewards": [
+                {
+                    "type": "apotheosis:affix",
+                    "rarity": "mythic"
+                }
+            ],
+            "max_wave_time": 1250,
+            "setup_time": 150
+        }
+        
+    
+
+    ],
+    "rewards": [
+        {
+            "type": "apotheosis:affix",
+            "rarity": "ancient",
+            "count":"5"
+        }
+    ],
+    "completion_xp": 2500,
+    "spawn_range": 5
+}

@@ -1,0 +1,18 @@
+{
+  "type": "gateways:gate_recipe",
+  "group": "gateways",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key":{
+	"A": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "gateways:gate_pearl"
+  },
+  "gateway": "gtecompat:minecraft/wither_gate_large"
+}
